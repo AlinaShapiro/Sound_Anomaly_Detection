@@ -25,7 +25,7 @@ Develop a robust system to identify unusual or dangerous sound events in real-wo
 
 ### 🧠 Models
 
-  - TBD (transformer-based models like [**HuBERT**](https://huggingface.co/docs/transformers/model_doc/hubert) (Hidden-Unit BERT), [**WavLM**](https://github.com/microsoft/unilm/tree/master/wavlm))
+  - Transformer-based models like [**Wav2Vec2**](https://huggingface.co/facebook/wav2vec2-base-960h), [**Whisper**](https://huggingface.co/openai/whisper-base).
 
 ## Applications
 
