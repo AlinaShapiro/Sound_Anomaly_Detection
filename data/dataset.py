@@ -79,6 +79,6 @@ if __name__=="__main__":
     # with open("final_dataset.pkl", "rb") as f:
     #     loaded_dataset = pkl.load(f)
 
-    # final_dataset.save_to_disk("./data/Audio-Anomaly-Dataset/Audio_dataset_splited")
+    final_dataset.save_to_disk("./data/Audio-Anomaly-Dataset/Audio_dataset_splited")
 
     print(final_dataset)
